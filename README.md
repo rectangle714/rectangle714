@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-3C5087?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
  <br/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&theme=gray"/> 
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&theme=gray"/>  -->
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
