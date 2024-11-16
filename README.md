@@ -29,14 +29,12 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white" alt="EC2"/>
   <br/><br/>
   <h2>📊 GitHub Stats 📊</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=rectangle714&show_icons=true&theme=gruvbox&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&layout=compact&theme=gruvbox" />
-  
-  
  <br/><br/><br/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&theme=gray"/>  -->
 </div>
 <h2></h2>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=150&section=footer" />
