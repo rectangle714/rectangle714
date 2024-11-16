@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">&nbsp
   <br/><br/>
   <h2>📊 GitHub Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=HyeongGeun&show_icons=true&theme=gruvbox&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongGeun&layout=compact&theme=gruvbox" />
+  ![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api?username=rectangle714&show_icons=true&theme=radical")
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&layout=compact&theme=gruvbox" />
   
   
  <br/><br/><br/>
