@@ -28,7 +28,6 @@
   <h3>⚙️ DevOps</h3>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white" alt="EC2"/>
   <br/><br/>
   <h2>📊 GitHub Stats 📊</h2>
