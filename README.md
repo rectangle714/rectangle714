@@ -37,8 +37,10 @@
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="EC2"/>
 </div>
 
-#### 📊 GitHub Stats
+<br>
+
 <div>
   <img src="https://streak-stats.demolab.com?user=rectangle714&locale=ko&date_format=%5BY.%5Dn.j&theme=dark&card_width=400&card_height=160&hide_longest_streak=true" />
+  &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&layout=compact&theme=gruvbox" />
 </div>
