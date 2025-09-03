@@ -2,13 +2,6 @@
 
 <br>
 
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rectangle7" />
-  <img src="https://streak-stats.demolab.com?user=rectangle714&locale=ko&date_format=%5BY.%5Dn.j&theme=dark&card_width=400&card_height=160&hide_longest_streak=true" />
-</div>
-
-<br>
-
 ### 🔎 Contact
 <div>
   <a href=""><img src="https://img.shields.io/badge/rectangle714@naver.com-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
