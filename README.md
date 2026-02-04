@@ -3,8 +3,8 @@
   ## 👋 안녕하세요! 웹 개발자 박형근입니다.
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rectangle714&show_icons=true&theme=gotham" alt="github stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&layout=compact&theme=gotham" alt="top langs" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rectangle714&show_icons=true&theme=gotham" alt="github stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rectangle714&layout=compact&theme=gotham" alt="top langs" height="150"/> -->
 
   <br><br>
 
